@@ -20,6 +20,7 @@ public class Botiga {
 
     public static String obtenirProducte() {
         return obtenirProducte();
+        System.out.println("sisisi");
     }
 
     public static void imprimirProducte() {
